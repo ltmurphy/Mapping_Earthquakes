@@ -7,6 +7,14 @@ The purpose of this project is to gather earthquake data from the U.S. Geologica
 
 *Streets view*
 
+[streets_map.pdf](https://github.com/ltmurphy/Mapping_Earthquakes/files/7662785/streets_map.pdf)
+
+
+
+
+
+
+
 ![Streets](https://user-images.githubusercontent.com/89520192/144765389-d9efc8d5-4f15-4bf5-a56d-e11472665808.PNG)
 
 *Satellite view*
